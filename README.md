@@ -1,16 +1,24 @@
-### Hello there 👋
+## /Marco
 
-<!--
-**mromanelli9/mromanelli9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[LinkedIn](https://linkedin.com/in/mromanelli9) •
+[AngelList](https://angel.co/u/mromanelli9) •
+[email](mailto:marco.romanelli@pm.me) •
+[CV](./CV_Marco_Romanelli.pdf)
 
-Here are some ideas to get you started:
+Professional background work in the engineering consulting industry
+and academic sector.
+Experience with Python, JavaScript, Docker, Ansible, between others.  
+Looking for remote work or open-source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interests in applied machine learning, cybersecurity, data privacy and cryptocurrencies.
+
+#### Recent projects
+
+[MoZuMa](https://github.com/mozuma/mozuma) •
+[NewsTeller](https://newsteller.lsir.ch/)
+
+#### Recent open-source contributions
+
+[goose3](https://github.com/goose3/goose3) •
+[Tensorboard](https://github.com/tensorflow/tensorboard) •
+[ruTorrent](https://github.com/Novik/ruTorrent)
