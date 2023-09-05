@@ -5,12 +5,13 @@
 [email](mailto:marco.romanelli@pm.me) •
 [CV](./CV_Marco_Romanelli.pdf)
 
-Professional background work in the engineering consulting industry
-and academic sector.
-Experience with Python, JavaScript, Docker, Ansible, between others.  
-Looking for remote work or open-source projects.
+Versatile and motivated professional with a strong passion for continuous learning,
+both within and outside my professional sector.
+Experienced in the engineering consulting industry and the academic sector. 
+Proficient in Python, JavaScript, Docker, and more.
 
-Interests in applied machine learning, data privacy, cybersecurity and cryptocurrencies.
+Passionate about applied machine learning, data privacy, cybersecurity, and cryptocurren- cies.
+Looking for remote work or open-source projects.
 
 #### Recent projects
 
