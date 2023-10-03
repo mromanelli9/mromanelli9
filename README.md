@@ -10,7 +10,7 @@ both within and outside my professional sector.
 Experienced in the engineering consulting industry and the academic sector. 
 Proficient in Python, JavaScript, Docker, and more.
 
-Passionate about applied machine learning, data privacy, cybersecurity, and cryptocurren- cies.
+Passionate about applied machine learning, data privacy, cybersecurity, and cryptocurrencies.
 Looking for remote work or open-source projects.
 
 #### Recent projects
