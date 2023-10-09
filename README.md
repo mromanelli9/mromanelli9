@@ -1,9 +1,8 @@
 ## /Marco
 
 [LinkedIn](https://linkedin.com/in/mromanelli9) •
-[AngelList](https://angel.co/u/mromanelli9) •
-[email](mailto:marco.romanelli@pm.me) •
-[CV](./CV_Marco_Romanelli.pdf)
+[CV](./CV_Marco_Romanelli.pdf) •
+[e-mail](mailto:marco.romanelli@pm.me)
 
 Versatile and motivated professional with a strong passion for continuous learning,
 both within and outside my professional sector.
