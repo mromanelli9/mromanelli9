@@ -15,7 +15,7 @@ Looking for remote work or open-source projects.
 #### Recent projects
 
 [MoZuMa](https://github.com/mozuma/mozuma) •
-[NewsTeller](https://newsteller.lsir.ch/)
+[NewsTeller](https://github.com/News-Teller)
 
 #### Recent open-source contributions
 
