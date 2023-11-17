@@ -4,12 +4,12 @@
 [CV](./CV_Marco_Romanelli.pdf) •
 [e-mail](mailto:marco.romanelli@pm.me)
 
-Versatile and motivated professional with a strong passion for continuous learning,
-both within and outside my professional sector.
-Experienced in the engineering consulting industry and the academic sector. 
-Proficient in Python, JavaScript, Docker, and more.
+Versatile software engineer with experience in the engineering consulting industry and the academic sector.
+Proficient in Python, JavaScript, and Docker, with hands-on experience in data science.
+Demonstrated successful collaboration at EPFL in the design and maintenance of the NewsTeller platform.
+Proven adaptability to new technologies and a quick learner.
 
-Passionate about applied machine learning, data privacy, cybersecurity, and cryptocurrencies.
+Passionate about data privacy, cybersecurity and applied machine learning.  
 Looking for remote work or open-source projects.
 
 #### Recent projects
