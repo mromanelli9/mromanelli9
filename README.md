@@ -22,4 +22,4 @@ Looking for remote work or open-source projects.
 [goose3](https://github.com/goose3/goose3/issues?q=author%3Amromanelli9) •
 [Tensorboard](https://github.com/tensorflow/tensorboard/issues?q=author%3Amromanelli9) •
 [ruTorrent](https://github.com/Novik/ruTorrent/issues?q=author%3Amromanelli9)
-w/ [filemanager plugin](https://github.com/nelu/rutorrent-filemanager/pull/34)
+w/ [filemanager plugin](https://github.com/nelu/rutorrent-filemanager/issues?q=author%3Amromanelli9)
