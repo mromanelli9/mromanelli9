@@ -1,25 +1,25 @@
 ## /Marco
 
 [LinkedIn](https://linkedin.com/in/mromanelli9) •
-[CV](./CV_Marco_Romanelli.pdf) •
-[e-mail](mailto:marco.romanelli@pm.me)
+[e-mail](mailto:marco.romanelli@pm.me) •
+[CV](./CV_Marco_Romanelli.pdf)
 
-Versatile software engineer with experience in the engineering consulting industry and the academic sector.
+Software engineer with a versatile background in engineering consulting, academia, and product development.
 Proficient in Python, JavaScript, and Docker, with hands-on experience in data science.
-Demonstrated successful collaboration at EPFL in the design and maintenance of the NewsTeller platform.
-Proven adaptability to new technologies and a quick learner.
+Demonstrated successful collaboration at Aindo AI in the design and maintenance of the main SaaS platform.
+Proven ability to tackle technical challenges, collaborate effectively with teams, and learn new technologies.
 
 Passionate about data privacy, cybersecurity and applied machine learning.  
-Looking for remote work or open-source projects.
 
-#### Latest projects
+#### Python libraries
 
-[MoZuMa](https://github.com/mozuma/mozuma) •
-[NewsTeller](https://github.com/News-Teller)
+[aindo-anonymize](https://github.com/aindo-com/aindo-anonymize) (Aindo AI) •
+[MoZuMa](https://github.com/mozuma/mozuma) (LSIR - EPFL)
 
-#### Latest open-source contributions
 
-[goose3](https://github.com/goose3/goose3/issues?q=author%3Amromanelli9) •
+#### Open-source contributions
+
+[Awesome Italia Remote](https://github.com/italiaremote/awesome-italia-remote/pull/405) •
+[goose3](https://github.com/goose3/goose3/pull/154) •
 [Tensorboard](https://github.com/tensorflow/tensorboard/issues?q=author%3Amromanelli9) •
-[ruTorrent](https://github.com/Novik/ruTorrent/issues?q=author%3Amromanelli9)
-w/ [filemanager plugin](https://github.com/nelu/rutorrent-filemanager/issues?q=author%3Amromanelli9)
+[ruTorrent](https://github.com/Novik/ruTorrent/pull/2354)
